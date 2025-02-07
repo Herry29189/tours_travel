@@ -1,0 +1,17 @@
+
+.nav-custom{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.dt {
+    font-weight: 600;
+  }
+
+  .dt1 {
+    font-weight:500;
+  }
+
